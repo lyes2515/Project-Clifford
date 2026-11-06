@@ -11,6 +11,7 @@ explainability (Grad-CAM) and subgroup analysis.
 - About 22,000 chest X-rays in two folders: `Normal/` and `Abnormal/`.
   `Abnormal/` contains two sub-folders, `Pneumonia/` and `Lung_Opacity/`.
 - Labels: Normal = 0, Abnormal = 1 (Abnormal is the positive class, so recall = sensitivity).
+- Dataset Link : https://www.kaggle.com/datasets/lyesaitk/clifford-3-class-dataset
 
 ## Pipeline
 
